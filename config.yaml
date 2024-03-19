@@ -1,0 +1,4 @@
+file: ./swagger.yaml
+output: ./api.ts
+server: https://petstore.swagger.io/v2
+project: Pet Store
