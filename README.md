@@ -13,20 +13,20 @@ This project will automatically convert swagger endpoints (YAML file) to a ts fi
 Edit the ```config.yaml``` file with the needed configuration
 
 <p align="center">
-  <img src="https://imgur.com/x8ObESV" alt="edit config.yaml file">
+  <img src="https://imgur.com/x8ObESV.png" alt="edit config.yaml file">
 </p>
 
 ## Run the Script with Terminal (python required)
 ``` python SwaggerConverter.py -C  ./config.yaml ```
 
 <p align="center">
-  <img src="https://imgur.com/sJvlkaP" alt="run the script">
+  <img src="https://imgur.com/sJvlkaP.png" alt="run the script">
 </p>
 
 ## Congrats, You have generated the TS file
 <p align="center">
-  <img src="https://imgur.com/pPUtDmo" alt="api ts file">
+  <img src="https://imgur.com/pPUtDmo.png" alt="api ts file">
 </p>
 <p align="center">
-  <img src="https://imgur.com/Js8pA9Y" alt="api ts file">
+  <img src="https://imgur.com/Js8pA9Y.png" alt="api ts file">
 </p>
