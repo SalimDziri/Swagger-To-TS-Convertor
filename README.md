@@ -30,3 +30,10 @@ Edit the ```config.yaml``` file with the needed configuration
 <p align="center">
   <img src="https://imgur.com/Js8pA9Y.png" alt="api ts file">
 </p>
+
+## How to use the generate file
+<p align="center">
+  <img src="https://i.imgur.com/ICZZi93.png" alt="how to use the generated file">
+</p><p align="center">
+  <img src="https://i.imgur.com/6hKJX1S.png" alt="how to use the generated file">
+</p>
